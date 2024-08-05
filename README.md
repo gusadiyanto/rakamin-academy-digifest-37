@@ -1,4 +1,6 @@
-Mini Portfolio Analyze the behavior of loan property customers
+Mini Portfolio Analyze The Behavior of Loan Property Customers
+
+![image](https://github.com/gusadiyanto/rakamin-academy-digifest-37/blob/main/Agus_Adiyanto.jpg)
 
 Project Overview
 
@@ -39,3 +41,6 @@ Karakteristik dan behaviour/nasabah yang melakukan pinjaman ke bank :
 - Nasabah yang akan membeli/investasi property tipe apartment di approve pinjamannya oleh bank daripada rumah, dan studio.
 - Jika dilihat dari status perkawinan, nasabah yang sudah menikah ataupun belum menikah merasa jangka waktu ideal dalam meminjam adalah selama 30 tahun.
 - Untuk pelanggan/nasabah yang sudah menikah, terlihat beberapa nasabah tertarik meminjam dengan jangka waktu 15-25 tahun. Kemungkinan hal ini terjadi karena bagi beberapa nasabah yang sudah menikah kemungkinan suami dan istri sudah memiliki penghasilan, sehingga jangka waktu 15-25 tahun dirasa ideal pula.
+
+Linkedin post:
+[https://www.linkedin.com/posts/agusadiyanto_analyze-the-behavior-of-loan-property-customers-activity-7189696398831878144-_M_P?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/agusadiyanto_analyze-the-behavior-of-loan-property-customers-activity-7189696398831878144-_M_P?utm_source=share&utm_medium=member_desktop)
