@@ -13,6 +13,7 @@ Dataset ‘loan_customer’ masih merupakan dataset asli/kotor. Oleh karena itu,
 3. Data type adjustment
 4. Handling outlier
 5. Feature encoding
+
 Data terdiri dari 621 baris dan 17 kolom
 
 Untuk selengkapnya, dapat melihat jupyter notebook (Google Colab) pada link berikut:
