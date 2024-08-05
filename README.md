@@ -21,14 +21,15 @@ https://colab.research.google.com/drive/14RhdpNYcQqvt1TJa-e-Zqgx_Xh-mmO4F?usp=sh
 
 Analisis Minat Nasabah Berdasarkan Pada Tipe Properti
 
-![image](https://github.com/gusadiyanto/rakamin-academy-digifest-37/blob/main/download%20(1).png)
+![image](https://github.com/gusadiyanto/rakamin-academy-digifest-37/blob/main/download.png)
 
 Insight :
 - Nasabah dengan gender laki-laki (male) yang paling banyak meminjam uang ke bank daripada perempuan (female) untuk membeli/investasi property
 - Nasabah dengan gender laki-laki (male) dan perempuan (female) lebih berminat dan memilih untuk berinvestasi property pada apartment daripada berinvestasi property yang lain
 
 Analisis Pengaruh Status Perkawinan Terhadap Jangka Waktu Meminjam
-![image](https://github.com/gusadiyanto/rakamin-academy-digifest-37/blob/main/download.png)
+
+![image](https://github.com/gusadiyanto/rakamin-academy-digifest-37/blob/main/download%20(1).png)
 
 Insight :
 Perilaku nasabah baik perempuan atau laki-laki kebanyakan mengajukan pinjaman untuk tipe properti apartemen. 
